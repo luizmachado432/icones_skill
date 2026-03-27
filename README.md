@@ -9,6 +9,7 @@ Aqui está uma lista de todos os ícones atualmente adicionados.
 |   `Django`         |     <img src="./icones/Django.svg" width="48">        |
 |   `Jupyter`        |     <img src="./icones/Jupyter.svg" width="48">       |
 |   `Java`        |     <img src="./icones/java.svg" width="48">       |
+|   `C++`        |     <img src="./icones/java.svg" width="48">       |
 
 
 
